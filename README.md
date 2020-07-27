@@ -8,10 +8,10 @@ To start this application please ensure that the following are in place:
 
 Once confirmed, the following steps can be executed:
 
-`git clone https://github.com/unicef/unga-proco`
-`cd unga-proco`
-`npm install`
-`node index.js`
+1. `git clone https://github.com/unicef/unga-proco`
+2. `cd unga-proco`
+3. `npm install`
+4. `node index.js`
 
 You should see something like this:
 
