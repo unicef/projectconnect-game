@@ -29,5 +29,27 @@ class MongoDB {
     console.log("Connected:", this.connectionString);
     console.log("Db initialized");
   }
+  async saveUser(user) {
+    console.log("Saving user", JSON.stringify(user));
+    return this.models.User.findOneAndUpdate(
+      {
+        ipAddress: user.ipAddress,
+      },
+      user,
+      { upsert: true }
+    );
+  }
+  async getBlocks() {
+    console.log("Getting blocks");
+    return this.models.Block.find({});
+  }
+  async saveBlock(block) {
+    console.log("Saving block", JSON.stringify(block));
+    return this.models.Block.findOneAndUpdate(
+      { lat: block.lat, long: block.long },
+      block,
+      { upsert: true }
+    );
+  }
 }
 module.exports = MongoDB;

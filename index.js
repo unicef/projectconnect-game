@@ -21,6 +21,7 @@ class UNGAProcoChainApp {
     this.server.set("json spaces", this.config.jsonSpaces);
     this.server.use(bodyParser.urlencoded(this.config.urlencoded));
     this.server.use("fetch", fetch);
+    this.server.set("ungaProcoChain", this);
     this.server.use("/rest", publicRoutes);
     console.log("Initialized");
   }
