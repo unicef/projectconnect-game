@@ -6,7 +6,7 @@
 
 The goal of this project is to crowdsource and gamify the validation of geolocation data for schools around the world. We need as much help as we can get by looking at satellite imagery at predefined GPS coordinates, and corroborate whether what the user is seeing could be a school or not.
 
-This effort is framed within [Project Connect](https://www.projectconnect.world/), run by the [UNICEF Office of Innocation](https://www.unicef.org/innovation/),  with the goal of knowing where schools are and how connected they are to inform programmes around education, health and emergencies. Project Connect emerged out of a need that was expressed by many UNICEF partners and UNICEF Country Offices.
+This effort is framed within [Project Connect](https://www.projectconnect.world/), run by the [UNICEF Office of Innocation](https://www.unicef.org/innovation/),  with the goal of knowing where schools are and how connected they are to inform programs around education, health and emergencies. Project Connect emerged out of a need that was expressed by many UNICEF partners and UNICEF Country Offices.
 
 ## 🎮 App
 
@@ -19,7 +19,7 @@ The app is live at https://projectconnect.app for anyone to play!
 
 2. **User Management**: In order to enable both gamification strategies and incentivization, it is clear that some level of user management is needed. The initial requirements of which are as follows:
     1. Account creation with username and password, and email verification.
-    2. Integration with OAuth2 providers: Facebook, GitHub, Google, Instgram, LinkedIn, OpenStreetMap and Twitter
+    2. Integration with OAuth2 providers: Facebook, GitHub, Google, Instagram, LinkedIn, OpenStreetMap and Twitter
     3. Associating and tracking school tagging activity to each user
     4. Adding new screens for users to manage account and track their activity
 
