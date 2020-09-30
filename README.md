@@ -35,3 +35,7 @@ The app is live at https://projectconnect.app for anyone to play! 🎮
 1. *Click on the SVG image above, which will open a live editor with the current version (content is encoded in the URL)*
 2. *Once you have made the changes, copy the address link of the live editor and update the link above*
 3. *On the live editor, click on the link to the SVG, look at the source, and update the [docs/roadmap.svg](docs/roadmap.svg) file*
+
+## About UNICEF
+
+[UNICEF](https://www.unicef.org/) works in over 190 countries and territories to protect the rights of every child. UNICEF has spent more than 70 years working to improve the lives of children and their families. In UNICEF, **we believe all children have a right to survive, thrive and fulfill their potential – to the benefit of a better world**.
