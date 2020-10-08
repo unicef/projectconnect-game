@@ -17,7 +17,7 @@ The app is live at https://projectconnect.app for anyone to play!
 
 1. **Satellite Imagery**: Our first run of this game during the month of September uncovered some limitations on both how recent some of the images are and the resolution (both of which vary by region). There are active conversations with both the current satellite image provider and alternate providers.
 
-2. **User Management**: In order to enable both gamification strategies and incentivization, it is clear that some level of user management is needed. The initial requirements of which are as follows:
+2. **[User Management](docs/user-mgmt.md)**: In order to enable both gamification strategies and incentivization, it is clear that some level of user management is needed. The initial requirements of which are as follows:
     1. Account creation with username and password, and email verification.
     2. Integration with OAuth2 providers: Facebook, GitHub, Google, Instagram, LinkedIn, OpenStreetMap and Twitter
     3. Associating and tracking school tagging activity to each user
