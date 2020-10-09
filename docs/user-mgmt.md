@@ -10,6 +10,7 @@ basic user management functionality, including account creation, login an logout
 * Associating and tracking school tagging activity to each user
 * Adding the required new screens for users to manage account and track their activity
 * Adding a navbar menu to access account functinoality throughout the app
+* Access to a blockchain wallet (in addition to being able to access the application with the OAuth2 providers listed above, it would be interesting to see people be able to get access to the platform with tools Web 3.0 providers like Metamask or WalletConnect)
 
 ## Technical requirements
 
