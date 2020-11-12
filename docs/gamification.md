@@ -25,5 +25,8 @@ they suggest to focus on:
   * Achievement - Introduce badges
   * Social - Introduce a leaderboard
 
+* One other suggestion to explore is to build a feedback loop that builds on that intrinsic motivation, and personalizes the experience. What if we could follow up with the user that tagged a certain school, and inform her/him of when that school is connected to the Internet; or that some action has been taken as a result of that tagging of that school. One challenge on this front is the scale of time: there is a big lag between the time a school is tagged and when action happens on the ground. There are other possibilities for implementing feedback loops: periodically inform users of how many schools are tagged in a certain region: for example, you tagged 4 schools in this region, and now the region has 80% of schools tagged, let's get to 90% etc...
 
+* When asked about the benefit of coding this game natively as a mobile app for Android and iOS vs a webapp, the primary benefit is around user retention, because with a native app the user has a visual reminder in their homescreen; but feature-wise we can accomplish as much with the tools we have for a webapp. If we ever decided to pursue this, we should definitely work with a single unified codebase that is the same for the web and native apps, versus having disctinct codebases -> that's a no-no.
 
+* Last but not least, consider implementing a feedback channel. Use our very own game to have a form that asks 2 or 3 questions about the experience, and have that inform the development of new features, or assess the what's working and what's not from the current version.
