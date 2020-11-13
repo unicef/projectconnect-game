@@ -25,7 +25,7 @@ The app is live at https://projectconnect.app for anyone to play!
 
 3. **User segmentation and Campaing Design**: The basic premise is to define distinct user segments and pilot campaigns tailored to each user segment. There is a current ongoing collaboration with a university class happening throughout the fall semester of 2020. The execution of pilot campaings is blocked by **(1) Satellite Imagery**.
 
-4. **Gamification**: Currently exploring a partnership with a game studio company.
+4. **[Gamification](docs/gamification.md)**: Currently exploring a partnership with a game studio company.
 
 5. **Incentivization**: Building financial and non-financial incentives as outlined in [unicef/incentives](https://github.com/unicef/incentives), with a possible blockchain component.
 
@@ -36,7 +36,7 @@ The app is live at https://projectconnect.app for anyone to play!
 2. *Once you have made the changes, copy the address link of the live editor and update the link above*
 3. *On the live editor, click on the link to the SVG, look at the source, and update the [docs/roadmap.svg](docs/roadmap.svg) file*
 
-## ❤️ About UNICEF
+## 💙 About UNICEF
 
 [UNICEF](https://www.unicef.org/) works in over 190 countries and territories to protect the rights of every child. UNICEF has spent more than 70 years working to improve the lives of children and their families. In UNICEF, **we believe all children have a right to survive, thrive and fulfill their potential – to the benefit of a better world**.
 
