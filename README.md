@@ -23,7 +23,7 @@ The app is live at https://projectconnect.app for anyone to play!
     3. Associating and tracking school tagging activity to each user
     4. Adding new screens for users to manage account and track their activity
 
-3. **User segmentation and Campaing Design**: The basic premise is to define distinct user segments and pilot campaigns tailored to each user segment. There is a current ongoing collaboration with a university class happening throughout the fall semester of 2020. The execution of pilot campaings is blocked by **(1) Satellite Imagery**.
+3. **User segmentation and Campaign Design**: The basic premise is to define distinct user segments and pilot campaigns tailored to each user segment. There is a current ongoing collaboration with a university class happening throughout the fall semester of 2020. The execution of pilot campaings is blocked by **(1) Satellite Imagery**.
 
 4. **[Gamification](docs/gamification.md)**: Currently exploring a partnership with a game studio company.
 
