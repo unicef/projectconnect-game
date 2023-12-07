@@ -12,6 +12,22 @@ This effort is framed within [Project Connect](https://www.projectconnect.world/
 
 The app was live online between 2020 and 2022, but it is no longer available online. It was played 240,000 times by about 800 different people through a small number of corporate partnership programs. It was never released to the general public.
 
+## 👀 Screenshots
+
+<table>
+    <tr>
+        <td>
+            <img src="design-references/v3/Landing%20page.jpg" alt="Landing Page" width="200">
+        </td>
+        <td>
+            <img src="design-references/v3/Tag%20schools%3A1.jpg" alt="Landing Page" width="200">
+        </td>
+        <td>
+            <img src="design-references/v3/Tag%20schools%3A2.jpg" alt="Landing Page" width="200">
+        </td>
+    </tr>
+</table>
+
 ## 📂 Roadmap
 
 * **[Gamification](docs/gamification.md)**: Idea exploration to further improve the user experience.
