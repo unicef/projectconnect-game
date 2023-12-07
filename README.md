@@ -10,7 +10,7 @@ This effort is framed within [Project Connect](https://www.projectconnect.world/
 
 ## 🎮 App
 
-The app is live at https://game.projectconnect.world for anyone to play!
+The app was live online between 2020 and 2022, but it is no longer available online. It was played 240,000 times by about 800 different people through a small number of corporate partnership programs. It was never released to the general public.
 
 ## 📂 Roadmap
 
